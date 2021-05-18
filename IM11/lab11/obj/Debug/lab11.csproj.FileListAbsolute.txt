@@ -1,0 +1,20 @@
+C:\Users\Никита\source\repos\lab11\lab11\obj\Debug\lab11.csprojAssemblyReference.cache
+C:\Users\Никита\source\repos\lab11\lab11\obj\Debug\lab11.Properties.Resources.resources
+C:\Users\Никита\source\repos\lab11\lab11\obj\Debug\lab11.csproj.GenerateResource.cache
+C:\Users\Никита\source\repos\lab11\lab11\obj\Debug\lab11.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\lab11\lab11\bin\Debug\lab11.exe.config
+C:\Users\Никита\source\repos\lab11\lab11\bin\Debug\lab11.exe
+C:\Users\Никита\source\repos\lab11\lab11\bin\Debug\lab11.pdb
+C:\Users\Никита\source\repos\lab11\lab11\obj\Debug\lab11.Form1.resources
+C:\Users\Никита\source\repos\lab11\lab11\obj\Debug\lab11.exe
+C:\Users\Никита\source\repos\lab11\lab11\obj\Debug\lab11.pdb
+C:\Users\olegr\OneDrive\Рабочий стол\lab11\lab11\bin\Debug\lab11.exe.config
+C:\Users\olegr\OneDrive\Рабочий стол\lab11\lab11\bin\Debug\lab11.exe
+C:\Users\olegr\OneDrive\Рабочий стол\lab11\lab11\bin\Debug\lab11.pdb
+C:\Users\olegr\OneDrive\Рабочий стол\lab11\lab11\obj\Debug\lab11.csprojAssemblyReference.cache
+C:\Users\olegr\OneDrive\Рабочий стол\lab11\lab11\obj\Debug\lab11.Form1.resources
+C:\Users\olegr\OneDrive\Рабочий стол\lab11\lab11\obj\Debug\lab11.Properties.Resources.resources
+C:\Users\olegr\OneDrive\Рабочий стол\lab11\lab11\obj\Debug\lab11.csproj.GenerateResource.cache
+C:\Users\olegr\OneDrive\Рабочий стол\lab11\lab11\obj\Debug\lab11.csproj.CoreCompileInputs.cache
+C:\Users\olegr\OneDrive\Рабочий стол\lab11\lab11\obj\Debug\lab11.exe
+C:\Users\olegr\OneDrive\Рабочий стол\lab11\lab11\obj\Debug\lab11.pdb
